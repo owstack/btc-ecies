@@ -1,6 +1,8 @@
 Btc ECIES
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/owstack/btc-ecies.svg)](https://greenkeeper.io/)
+
 [![NPM Package](https://img.shields.io/npm/v/btc-ecies.svg?style=flat-square)](https://www.npmjs.org/package/btc-ecies)
 [![Build Status](https://img.shields.io/travis/owstack/btc-ecies.svg?branch=master&style=flat-square)](https://travis-ci.org/owstack/btc-ecies)
 [![Coverage Status](https://img.shields.io/coveralls/owstack/btc-ecies.svg?style=flat-square)](https://coveralls.io/r/owstack/btc-ecies)
